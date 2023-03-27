@@ -1,0 +1,3 @@
+https://github.com/Open-Bootcamp/ResolucionEjercicios/tree/main/Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/Tema%203
+
+(corresponde al archivo "funciones.py")
